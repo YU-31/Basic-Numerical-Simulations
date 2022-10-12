@@ -1,0 +1,8 @@
+border a0(t=pi/2,2*pi){ x=cos(t); y=sin(t); label=1;}
+border a1(t=1,2){x=t; y=0; label=2;}
+border a2(t=0,1){x=2; y=t; label=3;}
+border a3(t=2,0){x=t; y=1; label=4;}
+
+int n=5;
+mesh Th= buildmesh( a0(10*n)+a1(10*n)+a2(10*n)+a3(10*n));
+plot(Th);

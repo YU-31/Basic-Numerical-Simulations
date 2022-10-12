@@ -1,0 +1,30 @@
+border a1(t=-5, 5){x=t; y=-5; label=1;}
+border a2(t=-5, 5){x=5; y=t; label=1;}
+border a3(t=5, -5){x=t; y=5; label=1;}
+border a4(t=5, -5){x=-5; y=t; label=1;} 
+
+border b1(t=0, -pi/2){x=0.5+2*cos(t); y=-0.5+2*sin(t); label=2;}
+border c1(t=-2.5, -3.5){x=0.5; y=t; label=3;}
+border c2(t=0.5, -0.5){x=t; y=-3.5; label=3;}
+border c3(t=-3.5, -2.5){x=-0.5; y=t; label=3;}
+border b2(t=-pi/2, -pi){x=-0.5+2*cos(t); y=-0.5+2*sin(t); label=2;}
+border c4(t=-2.5, -3.5){x=t; y=-0.5; label=3;}
+border c5(t=-0.5, 0.5){x=-3.5; y=t; label=3;}
+border c6(t=-3.5, -2.5){x=t; y=0.5; label=3;}
+border b3(t=-pi, -3*pi/2){x=-0.5+2*cos(t); y=0.5+2*sin(t); label=2;}
+border c7(t=2.5, 3.5){x=-0.5; y=t; label=3;}
+border c8(t=-0.5, 0.5){x=t; y=3.5; label=3;}
+border c9(t=3.5, 2.5){x=0.5; y=t; label=3;}
+border b4(t=-3*pi/2, -2*pi){x=0.5+2*cos(t); y=0.5+2*sin(t); label=2;}
+border c10(t=2.5, 3.5){x=t; y=0.5; label=3;}
+border c11(t=0.5, -0.5){x=3.5; y=t; label=3;}
+border c12(t=3.5, 2.5){x=t; y=-0.5; label=3;}
+
+border d1(t=0,-2*pi){x=3+cos(t); y=3+sin(t); label=4;}
+border d2(t=0,-2*pi){x=-3+cos(t); y=3+sin(t); label=4;}
+border d3(t=0,-2*pi){x=-3+cos(t); y=-3+sin(t); label=4;}
+border d4(t=0,-2*pi){x=3+cos(t); y=-3+sin(t); label=4;}
+
+int n=1;
+mesh Th = buildmesh(a1(10*n) + a2(10*n) + a3(10*n) + a4(10*n) + b1(10*n) + c1(10*n) + c2(10*n) + c3(10*n) + b2(10*n) + c4(10*n) + c5(10*n) + c6(10*n) + b3(10*n) + c7(10*n) + c8(10*n) + c9(10*n) + b4(10*n) + c10(10*n) + c11(10*n) + c12(10*n) + d1(30*n) + d2(30*n) + d3(30*n) + d4(30*n));
+plot(Th);

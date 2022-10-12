@@ -1,0 +1,132 @@
+講義資料/No1_Lecture_FreeFEM++(Mesh Genereation)/aerofoil.edp
+講義資料/No1_Lecture_FreeFEM++(Mesh Genereation)/Mesh_circle_in_square.edp
+講義資料/No1_Lecture_FreeFEM++(Mesh Genereation)/Mesh_circle.edp
+講義資料/No1_Lecture_FreeFEM++(Mesh Genereation)/Mesh_square.edp
+講義資料/No1_Lecture_FreeFEM++(Mesh Genereation)/No1_Lecture_FreeFEM++(Mesh Genereation).pptx
+講義資料/No0_Lecture_FreeFEM++(Basic Mathematics)
+講義資料/No2_Lecture_FreeFEM++(Poisson equation)/Laplace_output.edp
+講義資料/No2_Lecture_FreeFEM++(Poisson equation)/Laplace.edp
+講義資料/No2_Lecture_FreeFEM++(Poisson equation)/No2_Lecture_FreeFEM++(Poisson equation).pptx
+講義資料/No2_Lecture_FreeFEM++(Poisson equation)/output.vtk
+講義資料/No3_Lecture_FreeFEM++(Variational Problem)
+講義ZOOM.url
+Report1/08B22256YuyaWatanabe_report.pdf
+Report1/08B22256YuyaWatanabe_report.pptx
+Report1/report.png
+Report1/report.pptx
+Report2/08B22256YuyaWatanabe_report2.pptx
+Report2/mesh.png
+Report2/report2_result.mp4
+Report2/report2.pptx
+SampleFiles/AC.edp
+SampleFiles/AC.log
+SampleFiles/aerofoil.edp
+SampleFiles/AOA_aerofoil.edp
+SampleFiles/cavity_LSA.edp
+SampleFiles/convection_diffusion_matrix.edp
+SampleFiles/convection_diffusion_matrix.log
+SampleFiles/convection_diffusion.edp
+SampleFiles/convection.edp
+SampleFiles/diffusion_matrix.edp
+SampleFiles/diffusion_tanh.edp
+SampleFiles/diffusion.edp
+SampleFiles/ElasticLaw2dOT2.edp
+SampleFiles/gnuplotgen.bat
+SampleFiles/gnuplottop.bat
+SampleFiles/Homogenization.edp
+SampleFiles/Laplace_matrix.edp
+SampleFiles/Laplace_output.edp
+SampleFiles/Laplace_topo.edp
+SampleFiles/Laplace_topo(max).edp
+SampleFiles/Laplace.edp
+SampleFiles/Mesh_circle_in_square.edp
+SampleFiles/Mesh_circle.edp
+SampleFiles/Mesh_circle.log
+SampleFiles/Mesh_square.edp
+SampleFiles/Mesh_square.log
+SampleFiles/NACA_DMD.edp
+SampleFiles/NACA_GA(AOA).edp
+SampleFiles/NACA_GA(Desighn).edp
+SampleFiles/NACA_GA(Design).edp
+SampleFiles/NACA_LSA.edp
+SampleFiles/NACA_momentum.edp
+SampleFiles/NACA_POD.edp
+SampleFiles/NACA_RC.edp
+SampleFiles/Output_data for NACA_RC.edp
+SampleFiles/pngmakegen.gp
+SampleFiles/pngmaketop.gp
+SampleFiles/shapeoptimization_2dCavity.edp
+SampleFiles/shapeoptimization_Karmanvortex.edp
+SampleFiles/stokes_matrix_time.edp
+SampleFiles/stokes_matrix.edp
+SampleFiles/stokes.edp
+SampleFiles/u_2_200.plt
+SampleFiles/u_3_300.plt
+SampleFiles/u_4_400.plt
+SampleFiles/u_5_500.plt
+SampleFiles/u_6_600.plt
+SampleFiles/v_2_200.plt
+SampleFiles/v_3_300.plt
+SampleFiles/v_4_400.plt
+SampleFiles/v_5_500.plt
+SampleFiles/v_6_600.plt
+SampleFiles/u_/u_0_0.plt
+SampleFiles/u_/u_1_100.plt
+SampleFiles/v_/v_0_0.plt
+SampleFiles/v_/v_1_100.plt
+講義動画/Navier-Stokes Equation.url
+講義動画/Stokes Equation.url
+講義動画/ポアソン方程式.url
+講義動画/メッシュ生成.url
+講義動画/移流拡散方程式.url
+講義動画/数値シミュレーション法Ⅰ/基礎編①.url
+講義動画/数値シミュレーション法Ⅰ/基礎編②.url
+講義動画/数値シミュレーション法Ⅰ/基礎編③.url
+講義動画/数値シミュレーション法Ⅰ/基礎編④.url
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/AC.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/convection_diffusion_matrix.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/convection_diffusion.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/convection.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/diffusion_matrix.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/diffusion_tanh.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/diffusion.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/Laplace_matrix.edp
+講義資料/No4_Lecture_FreeFEM++(Advection-Deffusion equation)/No4_Lecture_FreeFEM++(Advection-Deffusion equation).pptx
+講義資料/No5_Lecture_FreeFEM++(Deffusion equation in 3D)/3d mesh_buildlayer.edp
+講義資料/No5_Lecture_FreeFEM++(Deffusion equation in 3D)/3dmesh_buildlayer_heat_neumann.edp
+講義資料/No5_Lecture_FreeFEM++(Deffusion equation in 3D)/3dmesh_buildlayer_heat.edp
+講義資料/No5_Lecture_FreeFEM++(Deffusion equation in 3D)/No5_Lecture_FreeFEM++(Deffusion equation in 3D).pptx
+講義資料/No5_Lecture_FreeFEM++(Deffusion equation in 3D)/Pipe with stenosis.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/~$No7_Lecture_FreeFEM++(Fluid Engineering).pptx
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/AOA_aerofoil.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/cavity_LSA.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA Energy Re=5000 AOA=15.csv
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA_DMD.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA_LSA_sparsesolver.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA_LSA.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA_momentum.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA_nonLSA.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA_POD.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/NACA_RC.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/No6_Lecture_FreeFEM++(Fluid Engineering).pptx
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/Output_data for NACA_RC.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/stokes_matrix_time.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/stokes_matrix.edp
+講義資料/No6_Lecture_FreeFEM++(Fluid Engineering)/stokes.edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/~$No8_Lecture_FreeFEM++(GA and Topology and Shape Optimization).pptx
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/ElasticLaw2dOT2.edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/Homogenization.edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/Laplace_topo.edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/NACA_GA(AOA).edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/NACA_GA(Desighn).edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/NACA_GA(Design).edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/No7_Lecture_FreeFEM++(Design Engineering).pptx
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/shapeoptimization_2dCavity.edp
+講義資料/No7_Lecture_FreeFEM++(Design Engineering)/shapeoptimization_Karmanvortex.edp
+講義資料/No8_Lecture_Freefem++(Pararell Computing)/GPU01.pdf
+講義資料/No8_Lecture_Freefem++(Pararell Computing)/GPU02.pdf
+講義資料/No8_Lecture_Freefem++(Pararell Computing)/mpi-intro-nov2018.pdf
+講義資料/No8_Lecture_Freefem++(Pararell Computing)/No8_Lecture_FreeFem++.pptx
+講義資料/No8_Lecture_Freefem++(Pararell Computing)/No8_Lecture_FreeFEM++(Pararell Computing).pdf
+講義資料/No8_Lecture_Freefem++(Pararell Computing)/No8_Lecture_FreeFEM++(Pararell Computing).pptx
+講義資料/No8_Lecture_Freefem++(Pararell Computing)/分散並列シミュレーション.pptx
